@@ -1,0 +1,22 @@
+MasterHost=10.10.20.52
+MasterUser=dev15
+MasterPassword=QuONHanTSqD5nC7d
+MasterDb=tdot_multiapi
+MasterPort=3306
+
+
+TotalConnection=10
+MaxReadCount=50
+SleepTime=100
+PoolSize=20
+*********** second Connection Detail*************
+
+
+Host=10.10.20.52
+User=dev15
+Password=QuONHanTSqD5nC7d
+DbName=tdot_websmpp
+Port=3306
+
+
+
